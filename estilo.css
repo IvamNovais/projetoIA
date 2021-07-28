@@ -1,0 +1,24 @@
+.corpo{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+.titulo{
+    height: 45%;
+}
+.titulo h1{
+    font-size: 4rem;
+}
+.app{
+    border: 1px black solid;
+    padding: .5rem;
+    border-radius: 1rem;
+    background-color: gray;
+}
+button{
+    margin-bottom: .5rem;
+    background-color: green;
+    border: none;
+}
